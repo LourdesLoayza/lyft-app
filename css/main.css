@@ -5,6 +5,23 @@
   
 }
   
-.grad{
+.index-grad{
 background: linear-gradient( #83036e 55%, #c70882);
+}
+
+.container-flex-column {
+  display: flex;
+	flex-direction:column;
+  justify-content: center;
+	padding: 2em;
+}
+
+.screem-size {
+	height: 100vh;
+}
+
+.register-grad {
+  background-image: url("../assets/images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
